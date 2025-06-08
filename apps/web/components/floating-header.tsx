@@ -31,7 +31,7 @@ export function FloatingHeader() {
 
   const navItems = [
     { label: "Features", href: "/#features" },
-    { label: "Security", href: "/#security" },
+    { label: "Waitlist", href: "/#waitlist" },
     { label: "Docs", href: "/#docs" },
     { label: "Community", href: "/#community" },
   ]
