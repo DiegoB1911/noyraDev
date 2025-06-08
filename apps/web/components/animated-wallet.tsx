@@ -37,7 +37,7 @@ export function AnimatedWallet() {
               <div className="flex justify-between items-start">
                 <div>
                   <div className="text-blue-300 text-sm font-medium mb-1">CRYPTO WALLET</div>
-                  <div className="text-white text-3xl font-bold tracking-tight">NUMO</div>
+                  <div className="text-white text-3xl font-bold tracking-tight">NOYRA</div>
                 </div>
                 <div className="flex items-center space-x-2">
                   <div className="w-8 h-8 bg-gradient-to-br from-blue-400 to-cyan-400 rounded-lg flex items-center justify-center">

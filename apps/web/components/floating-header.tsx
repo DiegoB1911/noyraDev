@@ -32,7 +32,7 @@ export function FloatingHeader() {
   const navItems = [
     { label: "Features", href: "/#features" },
     { label: "Security", href: "/#security" },
-    { label: "Noyra", href: "/noyra" },
+    { label: "Docs", href: "/#docs" },
     { label: "Community", href: "/#community" },
   ]
 
@@ -54,7 +54,7 @@ export function FloatingHeader() {
               <Wallet className="w-5 h-5 text-white transition-transform duration-300 group-hover:scale-110" />
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent transition-all duration-300 group-hover:tracking-wider">
-              Numo
+              Noyra
             </span>
           </Link>
 

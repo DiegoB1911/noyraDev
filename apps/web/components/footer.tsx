@@ -82,7 +82,7 @@ export function Footer() {
                   <Wallet className="w-6 h-6 text-white" />
                 </div>
                 <span className="text-2xl font-bold bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">
-                  Numo
+                  Noyra
                 </span>
               </div>
 
@@ -134,7 +134,7 @@ export function Footer() {
         <div className="py-8 border-t border-slate-700/50">
           <div className="flex flex-col lg:flex-row justify-between items-center space-y-4 lg:space-y-0">
             <div className="flex flex-col sm:flex-row items-center space-y-2 sm:space-y-0 sm:space-x-6 text-sm text-gray-400">
-              <p>© {new Date().getFullYear()} Numo. All rights reserved.</p>
+              <p>© {new Date().getFullYear()} Noyra. All rights reserved.</p>
             </div>
 
             <div className="flex items-center space-x-6 text-sm">

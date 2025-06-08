@@ -156,7 +156,7 @@ export function FeaturesSection() {
           </h2>
 
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Numo combines enterprise-grade security with intuitive design, giving your organization complete control
+            Noyra combines enterprise-grade security with intuitive design, giving your organization complete control
             over digital assets with powerful features built for teams.
           </p>
         </div>

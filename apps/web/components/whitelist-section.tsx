@@ -348,7 +348,7 @@ export function WhitelistSection() {
                   </div>
                   <h3 className="text-3xl font-bold">Welcome to the Future!</h3>
                   <p className="text-blue-100 max-w-lg mx-auto text-lg">
-                    You're now on our exclusive waitlist. We'll notify you as soon as Numo is ready for early access.
+                    You're now on our exclusive waitlist. We'll notify you as soon as Noyra is ready for early access.
                   </p>
                   <div className="inline-flex items-center px-6 py-3 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 text-white">
                     <Users className="w-4 h-4 mr-2" />
