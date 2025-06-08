@@ -1,0 +1,75 @@
+# dependencies
+node_modules
+.pnp
+.pnp.js
+
+# testing
+coverage
+.nyc_output
+
+# next.js
+.next/
+out/
+build
+dist
+
+# misc
+.DS_Store
+*.pem
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.localf
+
+# debug
+npm-debug.log*
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+apps/web/.DS_Store
+apps/contracts/.DS_Store
+apps/.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build outputs
+apps/web/.next
+apps/web/out
+apps/contracts/dist
+
+# Cache
+.eslintcache
+.cache
+.parcel-cache
+
+# Logs
+logs
+*.log
+
+# npm specific
+.npm
+
+.turbo
+.turbo-build-cache
+.turbo/cookies
